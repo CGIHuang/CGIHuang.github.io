@@ -7,7 +7,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://123.com/images/2.png</loc>
+    <loc>http://123.com/class.html</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://123.com/video.html</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://123.com/images/bg.jpg</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://123.com/images/%E7%BB%843.jpg</loc>
     <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,18 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534834088885">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534837151959">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="330463619" ref="index"/>
+    <file name="index.css" crc="208923045" ref="index"/>
+    <file name="video.css" crc="4005306784" ref="video"/>
+    <file name="class.css" crc="418795505" ref="class"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class:video"/>
+    <file name="museutils.js" crc="163421577" ref="index:class:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:class:video"/>
+    <file name="museconfig.js" crc="36584860" ref="index:class:video"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:class:video"/>
+    <file name="require.js" crc="244322403" ref="index:class:video"/>
   </folder>
   <folder name="images">
-    <file name="2.png" crc="171310656" seo="true" ref="index"/>
+    <file name="bg.jpg" crc="128860073" seo="true" ref="index"/>
+    <file name="组3.jpg" crc="4170398963" seo="true" ref="class:video"/>
   </folder>
-  <file name="index.html" crc="4257092954" seo="true" mt="1534833831418" redirect="true"/>
+  <file name="index.html" crc="3894350025" seo="true" mt="1534836822173" redirect="true"/>
+  <file name="class.html" crc="364127500" seo="true" mt="1534837113546" redirect="true"/>
+  <file name="video.html" crc="4251207391" seo="true" mt="1534837100059" redirect="true"/>
 </manifest>
