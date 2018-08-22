@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534937673382">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534937943396">
   <folder name="assets">
     <file name="blackpinkbg.mp4" crc="3827361993" seo="true" mt="1534934248000"/>
   </folder>
@@ -92,5 +92,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4151838137" seo="true" mt="1534934722142" redirect="true"/>
-  <file name="blackpink.html" crc="336279620" seo="true" mt="1534937665034" redirect="true"/>
+  <file name="blackpink.html" crc="233414173" seo="true" mt="1534937922113" redirect="true"/>
 </manifest>
