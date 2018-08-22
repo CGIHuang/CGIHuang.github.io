@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534936100829">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534937673382">
   <folder name="assets">
     <file name="blackpinkbg.mp4" crc="3827361993" seo="true" mt="1534934248000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3904667999" ref="index"/>
     <file name="nomq_index.css" crc="4018089358" ref="index"/>
-    <file name="blackpink.css" crc="328692089" ref="blackpink"/>
+    <file name="blackpink.css" crc="312942933" ref="blackpink"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blackpink"/>
@@ -92,5 +92,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4151838137" seo="true" mt="1534934722142" redirect="true"/>
-  <file name="blackpink.html" crc="449148580" seo="true" mt="1534936082807" redirect="true"/>
+  <file name="blackpink.html" crc="336279620" seo="true" mt="1534937665034" redirect="true"/>
 </manifest>
