@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534942093756">
-  <folder name="assets">
-    <file name="blackpinkbg.mp4" crc="3827361993" seo="true" mt="1534934248000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534958217207">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4054363662" ref="index"/>
+    <file name="blackpink.css" crc="4285239193" ref="blackpink"/>
+    <file name="index.css" crc="50408026" ref="index"/>
     <file name="nomq_index.css" crc="4018089358" ref="index"/>
-    <file name="blackpink.css" crc="353961271" ref="blackpink"/>
+  </folder>
+  <folder name="assets">
+    <file name="blackpinkbg.mp4" crc="3827361993" seo="true" mt="1534934248000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blackpink"/>
@@ -14,83 +14,63 @@
     <file name="whatinput.js" crc="86476730" ref="index:blackpink"/>
     <file name="museconfig.js" crc="4153641093" ref="index:blackpink"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:blackpink"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:blackpink"/>
   </folder>
   <folder name="images">
-    <file name="图层3.png" crc="124669972" seo="true" ref="index">
+    <file name="8.png" crc="124669972" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
+    </file>
+    <file name="7.png" crc="4104245043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="图层3481x238.png" crc="4218316764" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="图层3321x159.png" crc="4288897917" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="yellowimage拷贝2.png" crc="4104245043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-    </file>
     <file name="1.png" crc="3819706457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
     <file name="2.png" crc="3853046928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
     <file name="3.png" crc="3781834966" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
     <file name="4.png" crc="518158079" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
     <file name="5.png" crc="3992589790" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
-    <file name="bui.png" crc="282214363" seo="true" ref="index">
+    <file name="8642x317.png" crc="3847288872" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="a" alt=""/>
     </file>
-    <file name="图层3642x317.png" crc="3847288872" seo="true" ref="index">
+    <file name="8481x238.png" crc="4218316764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8321x159.png" crc="4288897917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.png" crc="282214363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3945645018" seo="true" mt="1534941222457" redirect="true"/>
-  <file name="blackpink.html" crc="4077445780" seo="true" mt="1534941434364" redirect="true"/>
+  <file name="index.html" crc="193832616" seo="true" mt="1534949640646" redirect="true"/>
+  <file name="blackpink.html" crc="3798944605" seo="true" mt="1534958093003" redirect="true"/>
 </manifest>
