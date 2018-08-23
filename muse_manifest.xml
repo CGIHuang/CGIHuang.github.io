@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534958217207">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534994601461">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="blackpink.css" crc="4285239193" ref="blackpink"/>
+    <file name="blackpink.css" crc="4168883974" ref="blackpink"/>
     <file name="index.css" crc="50408026" ref="index"/>
     <file name="nomq_index.css" crc="4018089358" ref="index"/>
+    <file name="nomq_blackpink.css" crc="3882300797" ref="blackpink"/>
   </folder>
   <folder name="assets">
-    <file name="blackpinkbg.mp4" crc="3827361993" seo="true" mt="1534934248000"/>
+    <file name="blackpinkbg.mp4" crc="3848567495" seo="true" mt="1534989689000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blackpink"/>
@@ -14,7 +15,7 @@
     <file name="whatinput.js" crc="86476730" ref="index:blackpink"/>
     <file name="museconfig.js" crc="4153641093" ref="index:blackpink"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:blackpink"/>
     <file name="require.js" crc="4157109226" ref="index:blackpink"/>
   </folder>
   <folder name="images">
@@ -72,5 +73,5 @@
     </file>
   </folder>
   <file name="index.html" crc="193832616" seo="true" mt="1534949640646" redirect="true"/>
-  <file name="blackpink.html" crc="3798944605" seo="true" mt="1534958093003" redirect="true"/>
+  <file name="blackpink.html" crc="432014734" seo="true" mt="1534994578359" redirect="true"/>
 </manifest>
