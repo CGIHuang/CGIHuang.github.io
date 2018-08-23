@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://123.com/index.html</loc>
-    <lastmod>2018-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/8321x159.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/8161x80.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/8206x102.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/blackpink.html</loc>
-    <lastmod>2018-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/91137x640.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/91137x641.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/assets/blackpinkbg.mp4</loc>
+    <loc>http://www.designer-h.com/index.html</loc>
     <lastmod>2018-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
