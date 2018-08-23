@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534996272957">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1534996858459">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="blackpink.css" crc="429826267" ref="blackpink"/>
+    <file name="blackpink.css" crc="437342678" ref="blackpink"/>
     <file name="index.css" crc="50408026" ref="index"/>
     <file name="nomq_index.css" crc="4018089358" ref="index"/>
     <file name="nomq_blackpink.css" crc="18916600" ref="blackpink"/>
@@ -73,5 +73,5 @@
     </file>
   </folder>
   <file name="index.html" crc="193832616" seo="true" mt="1534949640646" redirect="true"/>
-  <file name="blackpink.html" crc="4152524932" seo="true" mt="1534996272313" redirect="true"/>
+  <file name="blackpink.html" crc="3810238831" seo="true" mt="1534996683385" redirect="true"/>
 </manifest>
