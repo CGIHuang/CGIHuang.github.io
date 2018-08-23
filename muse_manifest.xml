@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.designer-h.com" resolutions="1x" timestamp="1535012268308">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.designer-h.com" resolutions="1x" timestamp="1535012467203">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4174651639" ref="index"/>
-    <file name="nomq_index.css" crc="4254982368" ref="index"/>
+    <file name="index.css" crc="4224424478" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,27 +9,8 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="1.jpg" crc="246167967" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11366x769.jpg" crc="4258855956" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1320x180.jpg" crc="498975550" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="11339x753.jpg" crc="3936876366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1852x480.jpg" crc="48274743" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-  </folder>
-  <file name="index.html" crc="167807426" seo="true" mt="1535012254247" redirect="true"/>
+  <folder name="images"/>
+  <file name="index.html" crc="3955062228" seo="true" mt="1535012458469" redirect="false"/>
 </manifest>
