@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1535000506667">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1535001313313">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="blackpink.css" crc="4156933977" ref="blackpink"/>
-    <file name="index.css" crc="50408026" ref="index"/>
-    <file name="nomq_index.css" crc="4018089358" ref="index"/>
+    <file name="index.css" crc="3959240432" ref="index"/>
+    <file name="nomq_index.css" crc="150959071" ref="index"/>
     <file name="nomq_blackpink.css" crc="3813691753" ref="blackpink"/>
   </folder>
   <folder name="assets">
@@ -26,11 +26,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="1.png" crc="3819706457" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -39,10 +37,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="3.png" crc="3781834966" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -51,18 +47,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="5.png" crc="3992589790" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="8642x317.png" crc="3847288872" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="8481x238.png" crc="4218316764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="8321x159.png" crc="4288897917" seo="true" ref="index">
@@ -70,8 +58,12 @@
     </file>
     <file name="6.png" crc="282214363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8161x80.png" crc="3854028296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="193832616" seo="true" mt="1534949640646" redirect="true"/>
+  <file name="index.html" crc="218602271" seo="true" mt="1535001153259" redirect="true"/>
   <file name="blackpink.html" crc="407092093" seo="true" mt="1535000505515" redirect="true"/>
 </manifest>
