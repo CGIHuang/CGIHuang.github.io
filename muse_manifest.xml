@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1535002849772">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1535004701533">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="blackpink.css" crc="68747230" ref="blackpink"/>
+    <file name="blackpink.css" crc="331181127" ref="blackpink"/>
     <file name="index.css" crc="346246793" ref="index"/>
     <file name="nomq_index.css" crc="158273029" ref="index"/>
-    <file name="nomq_blackpink.css" crc="3813691753" ref="blackpink"/>
+    <file name="nomq_blackpink.css" crc="4118080644" ref="blackpink"/>
   </folder>
   <folder name="assets">
     <file name="blackpinkbg.mp4" crc="3848567495" seo="true" mt="1534994601000"/>
@@ -28,7 +28,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:blackpink"/>
     <file name="1.png" crc="3819706457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,7 +72,16 @@
     <file name="8206x102.png" crc="444895911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="9.jpg" crc="512914758" seo="true" ref="blackpink">
+      <caption webpage="blackpink" alt=""/>
+    </file>
+    <file name="91137x640.jpg" crc="4111721188" seo="true" ref="blackpink">
+      <caption webpage="blackpink" alt=""/>
+    </file>
+    <file name="91137x641.jpg" crc="4111721188" seo="true" ref="blackpink">
+      <caption webpage="blackpink" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="463493056" seo="true" mt="1535002646802" redirect="true"/>
-  <file name="blackpink.html" crc="41060528" seo="true" mt="1535002821691" redirect="true"/>
+  <file name="blackpink.html" crc="3896002939" seo="true" mt="1535004555423" redirect="true"/>
 </manifest>
