@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.designer-h.com" resolutions="1x" timestamp="1535012467203">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.designer-h.com" resolutions="1x" timestamp="1535012833886">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4224424478" ref="index"/>
+    <file name="index.css" crc="3989509406" ref="index"/>
+    <file name="nomq_index.css" crc="3775504256" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,7 +11,14 @@
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
-  <folder name="images"/>
-  <file name="index.html" crc="3955062228" seo="true" mt="1535012458469" redirect="false"/>
+  <folder name="images">
+    <file name="1.jpg" crc="504433525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="370945496" seo="true" mt="1535012819095" redirect="true"/>
 </manifest>
