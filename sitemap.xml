@@ -11,6 +11,9 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%20627x940.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20627x940361x541.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/blog_feedback.html</loc>
@@ -55,6 +58,18 @@
     </image:image>
     <image:image>
       <image:loc>http://123.com/images/1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/home.html</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20627x940.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
