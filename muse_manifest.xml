@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537983440053">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537984239135">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3965685476" ref="index"/>
-    <file name="nomq_index.css" crc="173965805" ref="index"/>
+    <file name="index.css" crc="4067856286" ref="index"/>
+    <file name="nomq_index.css" crc="4262880472" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -71,6 +71,11 @@
     <file name="u860-45.png" crc="245815198" ref="index"/>
     <file name="u863-45.png" crc="371209770" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="4.png" crc="4046655379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4226012485" seo="true" mt="1537983405268" redirect="true"/>
+  <file name="index.html" crc="3897339070" seo="true" mt="1537984181116" redirect="true"/>
 </manifest>
