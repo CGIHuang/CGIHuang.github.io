@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537969871349">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537970564283">
   <folder name="css">
     <file name="site_global.css" crc="4018726869"/>
-    <file name="index.css" crc="4060026893" ref="index"/>
+    <file name="index.css" crc="4216200384" ref="index"/>
     <file name="blog.css" crc="475639742" ref="blog"/>
     <file name="blog_feedback.css" crc="3839626743" ref="blog_feedback"/>
-    <file name="nomq_index.css" crc="3938486354" ref="index"/>
+    <file name="nomq_index.css" crc="4231460090" ref="index"/>
     <file name="home.css" crc="272339068" ref="home"/>
   </folder>
   <folder name="scripts">
@@ -21,6 +21,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="blog_feedback" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -28,7 +30,7 @@
       <caption webpage="home-copy" alt=""/>
       <caption webpage="home-copy" alt=""/>
     </file>
-    <file name="pasted svg 154721x154_poster_.png" crc="372321222" ref="home"/>
+    <file name="pasted svg 154721x154_poster_.png" crc="372321222" ref="home:index"/>
     <file name="pasted image 325x325.jpg" crc="393084054" seo="true" ref="blog_feedback">
       <caption webpage="index" alt=""/>
       <caption webpage="blog_feedback" alt=""/>
@@ -46,6 +48,8 @@
       <caption webpage="blog_feedback" alt=""/>
     </file>
     <file name="资源 7.png" crc="86475919" ref="index:blog_feedback:blog:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -119,19 +123,33 @@
     <file name="u2265-42.png" crc="118534130" ref="index"/>
     <file name="u2264-42.png" crc="507197631" ref="index"/>
     <file name="u2263-42.png" crc="175447884" ref="index"/>
-    <file name="u2262-43.png" crc="124535760" ref="index"/>
+    <file name="u2262-43.png" crc="264987802" ref="index"/>
     <file name="u2265-43.png" crc="3809707884" ref="index"/>
-    <file name="u2264-43.png" crc="348051376" ref="index"/>
-    <file name="u2263-43.png" crc="332459193" ref="index"/>
+    <file name="u2264-43.png" crc="4007763124" ref="index"/>
+    <file name="u2263-43.png" crc="175200880" ref="index"/>
     <file name="pasted image 627x940361x541.jpg" crc="326309803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="home-copy" alt=""/>
       <caption webpage="home-copy" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted image 627x940401x601.jpg" crc="145028694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2262-44.png" crc="124535760" ref="index"/>
+    <file name="u2265-44.png" crc="3809707884" ref="index"/>
+    <file name="u2264-44.png" crc="348051376" ref="index"/>
+    <file name="u2263-44.png" crc="332459193" ref="index"/>
+    <file name="u2262-45.png" crc="3787438446" ref="index"/>
+    <file name="u2265-45.png" crc="3854153655" ref="index"/>
+    <file name="u2264-45.png" crc="3858359786" ref="index"/>
+    <file name="u2263-45.png" crc="4073250788" ref="index"/>
   </folder>
-  <file name="index.html" crc="4179935542" seo="true" mt="1537969844661" redirect="true"/>
+  <file name="index.html" crc="140589820" seo="true" mt="1537970525119" redirect="true"/>
   <file name="blog_feedback.html" crc="457738864" seo="true" mt="1537969844640" redirect="true"/>
   <file name="blog.html" crc="383528957" seo="true" mt="1537969844641" redirect="true"/>
   <file name="home.html" crc="320690791" seo="true" mt="1537969844645" redirect="true"/>

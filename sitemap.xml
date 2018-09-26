@@ -14,6 +14,9 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%20627x940361x541.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20627x940401x601.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/blog_feedback.html</loc>
