@@ -1,29 +1,95 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537939283286">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537953635984">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="502957695" ref="index"/>
+    <file name="index.css" crc="500887298" ref="index"/>
+    <file name="blog.css" crc="4012738480" ref="blog"/>
+    <file name="blog_feedback.css" crc="142970369" ref="blog_feedback"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog_feedback:blog"/>
+    <file name="museutils.js" crc="3803043152" ref="index:blog_feedback:blog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog_feedback:blog"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:blog_feedback:blog"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:blog_feedback:blog"/>
+    <file name="require.js" crc="4157109226" ref="index:blog_feedback:blog"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-154721x154.svg" crc="3825114979" seo="true" ref="index">
+    <file name="pasted-svg-154721x154.svg" crc="3825114979" seo="true" ref="index:blog_feedback:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 154721x154_poster_.png" crc="372321222" ref="index"/>
+    <file name="pasted image 325x325.jpg" crc="393084054" seo="true" ref="blog_feedback">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+    </file>
+    <file name="pasted image 480x664.jpg" crc="3996319602" seo="true" ref="blog_feedback">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+    </file>
+    <file name="pasted image 480x6642.jpg" crc="4224204016" seo="true" ref="blog_feedback">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+    </file>
+    <file name="pasted image 480x6643.jpg" crc="3812326376" seo="true" ref="blog_feedback">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+    </file>
+    <file name="资源 7.png" crc="86475919" ref="index:blog_feedback:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog_feedback" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u627-4-a.png" crc="4267521102" ref="index"/>
+    <file name="u654-4.png" crc="278438740" ref="index"/>
+    <file name="u651-4.png" crc="388681794" ref="index"/>
+    <file name="u648-4.png" crc="525122809" ref="index"/>
+    <file name="pasted image 627x940.jpg" crc="341936903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 154721x154_poster_.png" crc="36300294" ref="index"/>
-    <file name="u169-4.png" crc="232520933" ref="index"/>
-    <file name="u172-4.png" crc="3896319568" ref="index"/>
-    <file name="u175-4.png" crc="4112315508" ref="index"/>
-    <file name="u178-4.png" crc="3849723084" ref="index"/>
-    <file name="u181-4.png" crc="445571986" ref="index"/>
-    <file name="u133-4.png" crc="3994248109" ref="index"/>
-    <file name="u141-4.png" crc="168750989" ref="index"/>
-    <file name="u286-4.png" crc="4019214982" ref="index"/>
+    <file name="u1116-4.png" crc="4267521102" ref="blog_feedback"/>
+    <file name="u1117-4.png" crc="278438740" ref="blog_feedback"/>
+    <file name="u1118-4.png" crc="388681794" ref="blog_feedback"/>
+    <file name="u1115-4.png" crc="525122809" ref="blog_feedback"/>
+    <file name="u1201-10.png" crc="274271559" ref="blog_feedback"/>
+    <file name="u1206-4.png" crc="155065085" ref="blog_feedback"/>
+    <file name="pasted-svg-30375x28.svg" crc="495634059" seo="true" ref="blog_feedback">
+      <caption webpage="blog_feedback" alt=""/>
+    </file>
+    <file name="pasted svg 30375x28_poster_.png" crc="132536257" ref="blog_feedback"/>
+    <file name="u1194-4.png" crc="70702438" ref="blog_feedback"/>
+    <file name="u1432-4.png" crc="4267521102" ref="blog"/>
+    <file name="u1433-4.png" crc="278438740" ref="blog"/>
+    <file name="u1434-4-a.png" crc="388681794" ref="blog"/>
+    <file name="u1431-4.png" crc="525122809" ref="blog"/>
+    <file name="pasted image 800x1216.jpg" crc="4242818269" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u1511-4.png" crc="3847341561" ref="blog"/>
+    <file name="u1516-4.png" crc="3987575065" ref="blog"/>
+    <file name="u1513-4.png" crc="261627910" ref="blog"/>
+    <file name="pasted image 564x822.jpg" crc="3902197192" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u1494-4.png" crc="3847341561" ref="blog"/>
+    <file name="u1499-4.png" crc="3987575065" ref="blog"/>
+    <file name="u1496-4.png" crc="261627910" ref="blog"/>
+    <file name="pasted image 432x990.jpg" crc="3995350075" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u1536-4.png" crc="3847341561" ref="blog"/>
+    <file name="u1535-4.png" crc="3987575065" ref="blog"/>
+    <file name="u1540-4.png" crc="261627910" ref="blog"/>
+    <file name="1.jpg" crc="447786766" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u1502-4.png" crc="3847341561" ref="blog"/>
+    <file name="u1505-4.png" crc="3987575065" ref="blog"/>
+    <file name="u1504-4.png" crc="261627910" ref="blog"/>
   </folder>
-  <file name="index.html" crc="4008040943" seo="true" mt="1537939270727" redirect="true"/>
+  <file name="index.html" crc="226616017" seo="true" mt="1537953600655" redirect="true"/>
+  <file name="blog_feedback.html" crc="349968086" seo="true" mt="1537953540480" redirect="true"/>
+  <file name="blog.html" crc="469999431" seo="true" mt="1537953600663" redirect="true"/>
 </manifest>
