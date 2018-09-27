@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://123.com/index.html</loc>
-    <lastmod>2018-09-27</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,6 +25,33 @@
     </image:image>
     <image:image>
       <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2016.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/movie.html</loc>
+    <lastmod>2018-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2016.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201279x717.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted-svg-385x38.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/sub.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted-svg-28873x17.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted-svg-26477x26.svg</image:loc>
     </image:image>
   </url>
 </urlset>

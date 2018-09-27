@@ -1,19 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538061115530">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538069050809">
   <folder name="css">
     <file name="site_global.css" crc="3804860052"/>
-    <file name="index.css" crc="3822795417" ref="index"/>
+    <file name="index.css" crc="533836893" ref="index"/>
+    <file name="movie.css" crc="117457324" ref="movie"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:movie"/>
+    <file name="museutils.js" crc="3803043152" ref="index:movie"/>
+    <file name="whatinput.js" crc="86476730" ref="index:movie"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:movie"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:movie"/>
+    <file name="require.js" crc="4157109226" ref="index:movie"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-154721x154.svg" crc="3863973384" seo="true" ref="index">
+    <file name="pasted-svg-154721x154.svg" crc="3863973384" seo="true" ref="index:movie">
       <caption webpage="index" alt=""/>
+      <caption webpage="movie" alt=""/>
     </file>
     <file name="pasted svg 154721x154_poster_.png" crc="520131279" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -43,14 +45,48 @@
     </file>
     <file name="资源 13-u2112.png" crc="3843304714" ref="index"/>
     <file name="资源 14-u2110.png" crc="4068326192" ref="index"/>
-    <file name="资源 16.png" crc="343480016" seo="true" ref="index">
+    <file name="资源 16.png" crc="343480016" seo="true" ref="index:movie">
       <caption webpage="index" alt=""/>
+      <caption webpage="movie" alt=""/>
     </file>
     <file name="u2106-4.png" crc="3914955041" ref="index"/>
     <file name="u2107-4.png" crc="178823550" ref="index"/>
-    <file name="web_pattern.png" crc="86475919" ref="index">
+    <file name="web_pattern.png" crc="86475919" ref="index:movie">
       <caption webpage="index" alt=""/>
+      <caption webpage="movie" alt=""/>
     </file>
+    <file name="pasted image 1279x717.jpg" crc="65417642" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="pasted-svg-385x38.svg" crc="3816105056" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="pasted svg 385x38_poster_.png" crc="3972558417" ref="movie"/>
+    <file name="资源 13-u3542.png" crc="3805024515" ref="movie"/>
+    <file name="资源 14-u3544.png" crc="434717932" ref="movie"/>
+    <file name="sub.png" crc="3907244724" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="pasted-svg-28873x17.svg" crc="163675105" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="pasted svg 28873x17_poster_.png" crc="274368199" ref="movie"/>
+    <file name="pasted-svg-26477x26.svg" crc="408261132" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="pasted svg 26477x26_poster_.png" crc="3909297697" ref="movie"/>
+    <file name="u3608-5.png" crc="3859625087" ref="movie"/>
+    <file name="u3596-4.png" crc="163518077" ref="movie"/>
   </folder>
-  <file name="index.html" crc="3789029354" seo="true" mt="1538060979306" redirect="true"/>
+  <file name="index.html" crc="4016187609" seo="true" mt="1538068883295" redirect="true"/>
+  <file name="movie.html" crc="427101148" seo="true" mt="1538068892903" redirect="true"/>
 </manifest>
