@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1537985517948">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538061115530">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="480255624" ref="index"/>
-    <file name="nomq_index.css" crc="3959758839" ref="index"/>
+    <file name="site_global.css" crc="3804860052"/>
+    <file name="index.css" crc="3822795417" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,72 +9,48 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="资源 7.png" crc="86475919" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="pasted-svg-154721x154.svg" crc="3863973384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u881-4.png" crc="533387840" ref="index"/>
-    <file name="u869-4.png" crc="3966135924" ref="index"/>
-    <file name="pasted-svg-59522x59.svg" crc="460711614" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 59522x59_poster_.png" crc="151874586" ref="index"/>
-    <file name="u838-4.png" crc="3933449138" ref="index"/>
-    <file name="u851-4.png" crc="4157983038" ref="index"/>
-    <file name="u857-4.png" crc="4255387794" ref="index"/>
-    <file name="u860-4.png" crc="4026506541" ref="index"/>
-    <file name="u863-4.png" crc="357995184" ref="index"/>
-    <file name="pasted-svg-627x940.svg" crc="88686483" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 627x940_poster_.png" crc="3786055945" ref="index"/>
-    <file name="u881-42.png" crc="533387840" ref="index"/>
-    <file name="u869-42.png" crc="3966135924" ref="index"/>
-    <file name="u838-42.png" crc="3933449138" ref="index"/>
-    <file name="u851-42.png" crc="4157983038" ref="index"/>
-    <file name="u857-42.png" crc="4255387794" ref="index"/>
-    <file name="u860-42.png" crc="4026506541" ref="index"/>
-    <file name="u863-42.png" crc="357995184" ref="index"/>
-    <file name="u881-43.png" crc="423710475" ref="index"/>
-    <file name="u869-43.png" crc="132449518" ref="index"/>
-    <file name="u838-43.png" crc="71311934" ref="index"/>
-    <file name="u851-43.png" crc="349608683" ref="index"/>
-    <file name="u857-43.png" crc="313537228" ref="index"/>
-    <file name="u860-43.png" crc="3833018781" ref="index"/>
-    <file name="u863-43.png" crc="3839082689" ref="index"/>
-    <file name="u881-44.png" crc="423710475" ref="index"/>
-    <file name="u869-44.png" crc="132449518" ref="index"/>
-    <file name="u838-44.png" crc="4123451791" ref="index"/>
-    <file name="u851-44.png" crc="450845329" ref="index"/>
-    <file name="u857-44.png" crc="3942265150" ref="index"/>
-    <file name="u860-44.png" crc="3778133866" ref="index"/>
-    <file name="u863-44.png" crc="4119684556" ref="index"/>
-    <file name="u881-45.png" crc="423710475" ref="index"/>
-    <file name="u869-45.png" crc="132449518" ref="index"/>
-    <file name="u838-45.png" crc="350001427" ref="index"/>
-    <file name="u851-45.png" crc="432172606" ref="index"/>
-    <file name="u857-45.png" crc="531531557" ref="index"/>
-    <file name="u860-45.png" crc="245815198" ref="index"/>
-    <file name="u863-45.png" crc="371209770" ref="index"/>
+    <file name="pasted svg 154721x154_poster_.png" crc="520131279" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="资源 12.png" crc="3803092884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 13-u2159.png" crc="3843304714" ref="index"/>
+    <file name="资源 14-u2161.png" crc="4068326192" ref="index"/>
     <file name="4.png" crc="4046655379" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 13-u2149.png" crc="3843304714" ref="index"/>
+    <file name="资源 14-u2151.png" crc="4068326192" ref="index"/>
+    <file name="5-crop-u2120.jpg" crc="3966662007" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 13-u2118.png" crc="3843304714" ref="index"/>
+    <file name="资源 14-u2116.png" crc="4068326192" ref="index"/>
+    <file name="4.jpg" crc="153810945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 13-u2131.png" crc="3843304714" ref="index"/>
+    <file name="资源 14-u2129.png" crc="4068326192" ref="index"/>
+    <file name="u2135-4.png" crc="3872073085" ref="index"/>
+    <file name="13-crop-u2103.jpg" crc="350170441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 13-u2112.png" crc="3843304714" ref="index"/>
+    <file name="资源 14-u2110.png" crc="4068326192" ref="index"/>
+    <file name="资源 16.png" crc="343480016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2106-4.png" crc="3914955041" ref="index"/>
+    <file name="u2107-4.png" crc="178823550" ref="index"/>
+    <file name="web_pattern.png" crc="86475919" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="49951928" seo="true" mt="1537985503389" redirect="true"/>
+  <file name="index.html" crc="3789029354" seo="true" mt="1538060979306" redirect="true"/>
 </manifest>

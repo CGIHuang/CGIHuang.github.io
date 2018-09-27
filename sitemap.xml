@@ -6,13 +6,25 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://123.com/images/pasted-svg-59522x59.svg</image:loc>
+      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://123.com/images/pasted-svg-627x940.svg</image:loc>
+      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2012.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://123.com/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/5-crop-u2120.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/13-crop-u2103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2016.png</image:loc>
     </image:image>
   </url>
 </urlset>
