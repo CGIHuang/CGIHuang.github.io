@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538109913688">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538110384585">
   <folder name="css">
     <file name="site_global.css" crc="3804860052"/>
-    <file name="index.css" crc="3890256825" ref="index"/>
+    <file name="index.css" crc="304620775" ref="index"/>
     <file name="movie.css" crc="4209430656" ref="movie"/>
     <file name="blog.css" crc="3870324463" ref="blog"/>
-    <file name="nomq_index.css" crc="256101126" ref="index"/>
+    <file name="nomq_index.css" crc="3945465046" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:movie:blog"/>
@@ -29,11 +29,13 @@
     </file>
     <file name="4.png" crc="4046655379" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="4.jpg" crc="153810945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="资源 16.png" crc="343480016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -102,10 +104,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="movie" alt=""/>
       <caption webpage="blog" alt=""/>
     </file>
     <file name="like.png" crc="4289887075" seo="true" ref="index:movie:blog">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -145,8 +149,10 @@
     <file name="图层5-crop-u6128.jpg" crc="100026964" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u8214-4.png" crc="3854170575" ref="index"/>
+    <file name="u8212-4.png" crc="304249380" ref="index"/>
   </folder>
-  <file name="index.html" crc="3832994808" seo="true" mt="1538109901476" redirect="true"/>
+  <file name="index.html" crc="4278892912" seo="true" mt="1538110369793" redirect="true"/>
   <file name="movie.html" crc="199703714" seo="true" mt="1538108733917" redirect="true"/>
   <file name="blog.html" crc="35151286" seo="true" mt="1538108733918" redirect="true"/>
 </manifest>
