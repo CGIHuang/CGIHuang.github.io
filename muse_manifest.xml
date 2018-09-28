@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538106316246">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538106936832">
   <folder name="css">
     <file name="site_global.css" crc="3804860052"/>
     <file name="index.css" crc="283927753" ref="index"/>
@@ -19,7 +19,7 @@
       <caption webpage="movie" alt=""/>
       <caption webpage="blog" alt=""/>
     </file>
-    <file name="pasted svg 154721x154_poster_.png" crc="520131279" ref="index:movie"/>
+    <file name="pasted svg 154721x154_poster_.png" crc="520131279" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="资源 12.png" crc="3803092884" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -126,7 +126,7 @@
       <caption webpage="blog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="129209001" seo="true" mt="1538104596849" redirect="true"/>
-  <file name="movie.html" crc="199703714" seo="true" mt="1538106299254" redirect="true"/>
+  <file name="index.html" crc="98996482" seo="true" mt="1538106929337" redirect="true"/>
+  <file name="movie.html" crc="199703714" seo="true" mt="1538106872224" redirect="true"/>
   <file name="blog.html" crc="35151286" seo="true" mt="1538105112259" redirect="true"/>
 </manifest>
