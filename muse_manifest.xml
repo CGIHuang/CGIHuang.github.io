@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538108556724">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538109255606">
   <folder name="css">
     <file name="site_global.css" crc="3804860052"/>
-    <file name="index.css" crc="189254715" ref="index"/>
+    <file name="index.css" crc="4015727099" ref="index"/>
     <file name="movie.css" crc="4209430656" ref="movie"/>
     <file name="blog.css" crc="3870324463" ref="blog"/>
     <file name="nomq_index.css" crc="343505273" ref="index"/>
@@ -117,8 +117,8 @@
       <caption webpage="movie" alt=""/>
       <caption webpage="blog" alt=""/>
     </file>
-    <file name="u6126-4.png" crc="273362825" ref="index"/>
-    <file name="u6125-4.png" crc="4292043486" ref="index"/>
+    <file name="u6126-4.png" crc="3854170575" ref="index"/>
+    <file name="u6125-4.png" crc="304249380" ref="index"/>
     <file name="back.png" crc="96339408" seo="true" ref="movie:blog">
       <caption webpage="movie" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -137,16 +137,16 @@
     </file>
     <file name="u6688-4.png" crc="3914955041" ref="index"/>
     <file name="u6689-4.png" crc="178823550" ref="index"/>
-    <file name="13-crop-u7267.jpg" crc="4259618520" seo="true" ref="index">
+    <file name="13-crop-u7267.jpg" crc="3902547552" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7264-4.png" crc="273362825" ref="index"/>
-    <file name="u7265-4.png" crc="4292043486" ref="index"/>
-    <file name="图层5-crop-u6128.jpg" crc="4278241261" seo="true" ref="index">
+    <file name="u7264-4.png" crc="3854170575" ref="index"/>
+    <file name="u7265-4.png" crc="304249380" ref="index"/>
+    <file name="图层5-crop-u6128.jpg" crc="100026964" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4218641460" seo="true" mt="1538108492445" redirect="true"/>
-  <file name="movie.html" crc="199703714" seo="true" mt="1538106872224" redirect="true"/>
-  <file name="blog.html" crc="35151286" seo="true" mt="1538105112259" redirect="true"/>
+  <file name="index.html" crc="4249228220" seo="true" mt="1538109244741" redirect="true"/>
+  <file name="movie.html" crc="199703714" seo="true" mt="1538108733917" redirect="true"/>
+  <file name="blog.html" crc="35151286" seo="true" mt="1538108733918" redirect="true"/>
 </manifest>
