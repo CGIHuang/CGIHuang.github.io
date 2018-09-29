@@ -2,104 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://123.com/index.html</loc>
-    <lastmod>2018-09-28</lastmod>
+    <lastmod>2018-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
+      <image:loc>http://123.com/images/log-crop-u2743.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2012.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2016.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/share.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/like.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/5-crop-u6710.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%828-crop-u6713.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/13-crop-u6691.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/13-crop-u7267.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%825-crop-u6128.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/movie.html</loc>
-    <lastmod>2018-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-385x38.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-28873x17.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/share.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/like.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/back.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/blog.html</loc>
-    <lastmod>2018-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-154721x154.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-385x38.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/sub.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-28873x17.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted-svg-26477x26.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%825.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%827.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/share.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/like.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/back.png</image:loc>
+      <image:loc>http://123.com/images/log-crop-u27432.png</image:loc>
     </image:image>
   </url>
 </urlset>

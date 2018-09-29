@@ -1,158 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538110384585">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538190457730">
   <folder name="css">
-    <file name="site_global.css" crc="3804860052"/>
-    <file name="index.css" crc="304620775" ref="index"/>
-    <file name="movie.css" crc="4209430656" ref="movie"/>
-    <file name="blog.css" crc="3870324463" ref="blog"/>
-    <file name="nomq_index.css" crc="3945465046" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="325529639" ref="index"/>
+    <file name="nomq_index.css" crc="4085996084" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:movie:blog"/>
-    <file name="museutils.js" crc="3803043152" ref="index:movie:blog"/>
-    <file name="whatinput.js" crc="86476730" ref="index:movie:blog"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:movie:blog"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:movie:blog"/>
-    <file name="require.js" crc="4157109226" ref="index:movie:blog"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-154721x154.svg" crc="3863973384" seo="true" ref="index:movie:blog">
+    <file name="log-crop-u2743.png" crc="146592412" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
     </file>
-    <file name="pasted svg 154721x154_poster_.png" crc="520131279" ref="index"/>
+    <file name="web_pattern.png" crc="86475919" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="log-crop-u27432.png" crc="146592412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="资源 12.png" crc="3803092884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4.png" crc="4046655379" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4.jpg" crc="153810945" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="资源 16.png" crc="343480016" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="movie" alt=""/>
-    </file>
-    <file name="web_pattern.png" crc="86475919" ref="index:movie:blog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="pasted-svg-385x38.svg" crc="3816105056" seo="true" ref="movie:blog">
-      <caption webpage="movie" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="pasted svg 385x38_poster_.png" crc="3972558417" ref="movie"/>
-    <file name="sub.png" crc="3907244724" seo="true" ref="blog">
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="pasted-svg-28873x17.svg" crc="163675105" seo="true" ref="movie:blog">
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="pasted svg 28873x17_poster_.png" crc="4168701053" ref="movie"/>
-    <file name="pasted-svg-26477x26.svg" crc="408261132" seo="true" ref="blog">
-      <caption webpage="movie" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="pasted svg 26477x26_poster_.png" crc="3909297697" ref="blog"/>
-    <file name="图层5.png" crc="3998189556" seo="true" ref="blog">
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="u5465-4.png" crc="4053723355" ref="blog"/>
-    <file name="u5471-4.png" crc="261596994" ref="blog"/>
-    <file name="u5478-4.png" crc="4198641098" ref="blog"/>
-    <file name="u5467-4.png" crc="246318185" ref="blog"/>
-    <file name="u5472-4.png" crc="4142780564" ref="blog"/>
-    <file name="图层7.jpg" crc="285788019" seo="true" ref="blog">
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="u5473-6.png" crc="231735984" ref="blog"/>
-    <file name="u5468-4.png" crc="89004674" ref="blog"/>
-    <file name="u5426-5.png" crc="3859625087" ref="blog"/>
-    <file name="u5427-4.png" crc="163518077" ref="blog"/>
-    <file name="share.png" crc="17188284" seo="true" ref="index:movie:blog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="like.png" crc="4289887075" seo="true" ref="index:movie:blog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="u6126-4.png" crc="3854170575" ref="index"/>
-    <file name="u6125-4.png" crc="304249380" ref="index"/>
-    <file name="back.png" crc="96339408" seo="true" ref="movie:blog">
-      <caption webpage="movie" alt=""/>
-      <caption webpage="blog" alt=""/>
-    </file>
-    <file name="5-crop-u6710.jpg" crc="3966662007" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="图层8-crop-u6713.jpg" crc="393604876" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6728-4.png" crc="192533393" ref="index"/>
-    <file name="u6727-4.png" crc="5966544" ref="index"/>
-    <file name="u6741-4.png" crc="3872073085" ref="index"/>
-    <file name="13-crop-u6691.jpg" crc="350170441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6688-4.png" crc="3914955041" ref="index"/>
-    <file name="u6689-4.png" crc="178823550" ref="index"/>
-    <file name="13-crop-u7267.jpg" crc="3902547552" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u7264-4.png" crc="3854170575" ref="index"/>
-    <file name="u7265-4.png" crc="304249380" ref="index"/>
-    <file name="图层5-crop-u6128.jpg" crc="100026964" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u8214-4.png" crc="3854170575" ref="index"/>
-    <file name="u8212-4.png" crc="304249380" ref="index"/>
   </folder>
-  <file name="index.html" crc="4278892912" seo="true" mt="1538110369793" redirect="true"/>
-  <file name="movie.html" crc="199703714" seo="true" mt="1538108733917" redirect="true"/>
-  <file name="blog.html" crc="35151286" seo="true" mt="1538108733918" redirect="true"/>
+  <file name="index.html" crc="4197433303" seo="true" mt="1538190436239" redirect="true"/>
 </manifest>
