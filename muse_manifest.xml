@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538199185607">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538199691035">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3797179301" ref="index"/>
+    <file name="index.css" crc="4152680671" ref="index"/>
     <file name="nomq_index.css" crc="4198627078" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -34,5 +34,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="503033727" seo="true" mt="1538199173381" redirect="true"/>
+  <file name="index.html" crc="496724394" seo="true" mt="1538199681877" redirect="true"/>
 </manifest>
