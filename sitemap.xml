@@ -17,5 +17,29 @@
     <image:image>
       <image:loc>http://123.com/images/log-crop-u27434.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/13-crop-u3191.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/5-crop-u3238.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%828-crop-u3806.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%828-crop-u38062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/%E5%9B%BE%E5%B1%828-crop-u38063.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

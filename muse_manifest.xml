@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538199691035">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1538201356391">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4152680671" ref="index"/>
-    <file name="nomq_index.css" crc="4198627078" ref="index"/>
+    <file name="index.css" crc="4184845647" ref="index"/>
+    <file name="nomq_index.css" crc="30713910" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,9 +12,10 @@
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="log-crop-u2743.png" crc="146592412" seo="true" ref="index">
+    <file name="log-crop-u2743.png" crc="361339803" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="web_pattern.png" crc="86475919" ref="index">
@@ -33,6 +34,60 @@
     <file name="log-crop-u27434.png" crc="326396475" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="资源 12.png" crc="3803092884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="share.jpg" crc="327781101" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="like.jpg" crc="3868979306" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="153810945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13-crop-u3191.jpg" crc="4229237144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u3238.jpg" crc="92361370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-u3244.png" crc="63229879" ref="index"/>
+    <file name="play.png" crc="455763158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3838940779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="图层8-crop-u3806.jpg" crc="4033512289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="图层8-crop-u38062.jpg" crc="4033512289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="图层8-crop-u38063.jpg" crc="4033512289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="496724394" seo="true" mt="1538199681877" redirect="true"/>
+  <file name="index.html" crc="3960806506" seo="true" mt="1538201329823" redirect="true"/>
 </manifest>
