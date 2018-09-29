@@ -8,5 +8,11 @@
     <image:image>
       <image:loc>http://123.com/images/log-crop-u2743.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/123400x712.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
