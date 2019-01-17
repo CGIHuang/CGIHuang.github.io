@@ -53,12 +53,6 @@
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/huangyan-portfolio%20201901171_page_02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-511939x7.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://123.com/respect-for-evangelion.html</loc>
@@ -67,9 +61,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x510.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -80,18 +71,6 @@
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84192x510.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5102.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5103.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5104.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
@@ -100,18 +79,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5105.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5106.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5107.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5108.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -122,18 +89,6 @@
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x5109.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x51010.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x51011.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-841905x510.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://123.com/final-battle.html</loc>
@@ -142,18 +97,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x51012.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-843489x510.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x51013.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84189x51014.svg</image:loc>
     </image:image>
   </url>
 </urlset>
