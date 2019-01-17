@@ -1,29 +1,151 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547704983666">
-  <folder name="images">
-    <file name="粘贴的-svg-84189x510.svg" crc="4140932366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="粘贴的 svg 84189x510_poster_.png" crc="156330572" ref="index"/>
-    <file name="粘贴的-svg-84378x513.svg" crc="3866886885" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="粘贴的 svg 84378x513_poster_.png" crc="426348320" ref="index"/>
-    <file name="粘贴的-svg-84189x5102.svg" crc="4084127118" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="粘贴的 svg 84189x510_poster_2.png" crc="4186861200" ref="index"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547734656119">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="183124512" ref="index"/>
+    <file name="final-battle.css" crc="3792518660" ref="final-battle"/>
+    <file name="shopping-and-learning-mathematics.css" crc="3856006480" ref="shopping-and-learning-mathematics"/>
+    <file name="personal-information.css" crc="4275982599" ref="personal-information"/>
+    <file name="respect-for-evangelion.css" crc="4260399389" ref="respect-for-evangelion"/>
+    <file name="can-you-read-sheet-music.css" crc="3841351175" ref="can-you-read-sheet-music"/>
+    <file name="index.css" crc="3922118230" ref="index"/>
+    <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="76169310" ref="let-s-cook-authentic-chinese-cuisine!"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="museutils.js" crc="340535759" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="require.js" crc="7928878" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
   </folder>
-  <file name="index.html" crc="4209152884" seo="true" mt="1547704928954" redirect="true"/>
+  <folder name="images">
+    <file name="1ncopy.jpg" crc="275797726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1n.jpg" crc="4212647602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2ncopy.jpg" crc="5690526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2n.jpg" crc="3809739028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3ncopy.jpg" crc="504706784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3n.jpg" crc="443948576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5ncopy.jpg" crc="4292687442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5n.jpg" crc="534201714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4ncopy.jpg" crc="4197424085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4n.jpg" crc="344174549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的-svg-236927x159.svg" crc="250107701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="index"/>
+    <file name="1.png" crc="4279088245" seo="true" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle">
+      <caption webpage="respect-for-evangelion" alt=""/>
+      <caption webpage="final-battle" alt=""/>
+      <caption webpage="personal-information" alt=""/>
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+      <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+    </file>
+    <file name="资源 2.png" crc="4156331503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huangyan-portfolio 201901171_page_02.jpg" crc="189576048" seo="true" ref="personal-information">
+      <caption webpage="personal-information" alt=""/>
+    </file>
+    <file name="粘贴的-svg-511939x7.svg" crc="127948067" seo="true" ref="personal-information">
+      <caption webpage="personal-information" alt=""/>
+    </file>
+    <file name="粘贴的 svg 511939x7_poster_.png" crc="3940189146" ref="personal-information"/>
+    <file name="粘贴的-svg-84189x510.svg" crc="3948068990" seo="true" ref="respect-for-evangelion">
+      <caption webpage="respect-for-evangelion" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_.png" crc="3853810441" ref="respect-for-evangelion"/>
+    <file name="粘贴的-svg-84192x510.svg" crc="446786817" seo="true" ref="can-you-read-sheet-music">
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84192x510_poster_.png" crc="3765441363" ref="can-you-read-sheet-music"/>
+    <file name="粘贴的-svg-84189x5102.svg" crc="469072547" seo="true" ref="can-you-read-sheet-music">
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_2.png" crc="146370364" ref="can-you-read-sheet-music"/>
+    <file name="粘贴的-svg-84189x5103.svg" crc="4260024296" seo="true" ref="can-you-read-sheet-music">
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_3.png" crc="106961722" ref="can-you-read-sheet-music"/>
+    <file name="粘贴的-svg-84189x5104.svg" crc="3838950826" seo="true" ref="can-you-read-sheet-music">
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_4.png" crc="4252581681" ref="can-you-read-sheet-music"/>
+    <file name="粘贴的-svg-84189x5105.svg" crc="4081859865" seo="true" ref="let-s-cook-authentic-chinese-cuisine!">
+      <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_5.png" crc="4034225243" ref="let-s-cook-authentic-chinese-cuisine!"/>
+    <file name="粘贴的-svg-84189x5106.svg" crc="4283675371" seo="true" ref="let-s-cook-authentic-chinese-cuisine!">
+      <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_6.png" crc="339860417" ref="let-s-cook-authentic-chinese-cuisine!"/>
+    <file name="粘贴的-svg-84189x5107.svg" crc="454767588" seo="true" ref="let-s-cook-authentic-chinese-cuisine!">
+      <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_7.png" crc="66366421" ref="let-s-cook-authentic-chinese-cuisine!"/>
+    <file name="粘贴的-svg-84189x5108.svg" crc="4211536695" seo="true" ref="let-s-cook-authentic-chinese-cuisine!">
+      <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_8.png" crc="4245929482" ref="let-s-cook-authentic-chinese-cuisine!"/>
+    <file name="粘贴的-svg-84189x5109.svg" crc="4126552846" seo="true" ref="shopping-and-learning-mathematics">
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_9.png" crc="382066256" ref="shopping-and-learning-mathematics"/>
+    <file name="粘贴的-svg-84189x51010.svg" crc="4186575873" seo="true" ref="shopping-and-learning-mathematics">
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_10.png" crc="272408440" ref="shopping-and-learning-mathematics"/>
+    <file name="粘贴的-svg-84189x51011.svg" crc="348653760" seo="true" ref="shopping-and-learning-mathematics">
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_11.png" crc="4244553465" ref="shopping-and-learning-mathematics"/>
+    <file name="粘贴的-svg-841905x510.svg" crc="108765710" seo="true" ref="shopping-and-learning-mathematics">
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+    </file>
+    <file name="粘贴的 svg 841905x510_poster_.png" crc="292435229" ref="shopping-and-learning-mathematics"/>
+    <file name="粘贴的-svg-84189x51012.svg" crc="4151143071" seo="true" ref="final-battle">
+      <caption webpage="final-battle" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_12.png" crc="4291611277" ref="final-battle"/>
+    <file name="粘贴的-svg-843489x510.svg" crc="283809664" seo="true" ref="final-battle">
+      <caption webpage="final-battle" alt=""/>
+    </file>
+    <file name="粘贴的 svg 843489x510_poster_.png" crc="3944073697" ref="final-battle"/>
+    <file name="粘贴的-svg-84189x51013.svg" crc="409264076" seo="true" ref="final-battle">
+      <caption webpage="final-battle" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_13.png" crc="3797414064" ref="final-battle"/>
+    <file name="粘贴的-svg-84189x51014.svg" crc="4154536457" seo="true" ref="final-battle">
+      <caption webpage="final-battle" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_14.png" crc="137743440" ref="final-battle"/>
+  </folder>
+  <file name="index.html" crc="3772822116" seo="true" mt="1547733499948" redirect="true"/>
+  <file name="personal-information.html" crc="4261178032" seo="true" mt="1547734429625" redirect="true"/>
+  <file name="respect-for-evangelion.html" crc="4247751816" seo="true" mt="1547733430625" redirect="true"/>
+  <file name="can-you-read-sheet-music.html" crc="4040340221" seo="true" mt="1547733430625" redirect="true"/>
+  <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="70983050" seo="true" mt="1547733430626" redirect="true"/>
+  <file name="shopping-and-learning-mathematics.html" crc="48771097" seo="true" mt="1547733430627" redirect="true"/>
+  <file name="final-battle.html" crc="3940888682" seo="true" mt="1547733430627" redirect="true"/>
 </manifest>
