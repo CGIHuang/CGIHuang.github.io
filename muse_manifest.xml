@@ -1,7 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547699546420">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547704983666">
+  <folder name="images">
+    <file name="粘贴的-svg-84189x510.svg" crc="4140932366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_.png" crc="156330572" ref="index"/>
+    <file name="粘贴的-svg-84378x513.svg" crc="3866886885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84378x513_poster_.png" crc="426348320" ref="index"/>
+    <file name="粘贴的-svg-84189x5102.svg" crc="4084127118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84189x510_poster_2.png" crc="4186861200" ref="index"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4098964068" ref="index"/>
+    <file name="index.css" crc="183124512" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,5 +25,5 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <file name="index.html" crc="4194914714" seo="true" mt="1547699408098" redirect="true"/>
+  <file name="index.html" crc="4209152884" seo="true" mt="1547704928954" redirect="true"/>
 </manifest>
