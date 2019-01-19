@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547824559543">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1547883745015">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="final-battle.css" crc="4025226093" ref="final-battle"/>
@@ -55,12 +55,12 @@
     </file>
     <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="index"/>
     <file name="1.png" crc="4279088245" seo="true" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle">
-      <caption webpage="can-you-read-sheet-music" alt=""/>
       <caption webpage="final-battle" alt=""/>
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
       <caption webpage="respect-for-evangelion" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="shopping-and-learning-mathematics" alt=""/>
       <caption webpage="personal-information" alt=""/>
     </file>
     <file name="资源 2.png" crc="4156331503" seo="true" ref="index">
@@ -124,8 +124,8 @@
   <file name="index.html" crc="3772822116" seo="true" mt="1547735570767" redirect="true"/>
   <file name="personal-information.html" crc="3813695047" seo="true" mt="1547738140262" redirect="true"/>
   <file name="respect-for-evangelion.html" crc="115407588" seo="true" mt="1547738535390" redirect="true"/>
-  <file name="can-you-read-sheet-music.html" crc="390459440" seo="true" mt="1547824441575" redirect="true"/>
+  <file name="can-you-read-sheet-music.html" crc="4127898454" seo="true" mt="1547883696099" redirect="true"/>
   <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="3782117543" seo="true" mt="1547738536666" redirect="true"/>
-  <file name="shopping-and-learning-mathematics.html" crc="128771172" seo="true" mt="1547779260297" redirect="true"/>
+  <file name="shopping-and-learning-mathematics.html" crc="3931744119" seo="true" mt="1547883615853" redirect="true"/>
   <file name="final-battle.html" crc="4265922615" seo="true" mt="1547738539402" redirect="true"/>
 </manifest>
