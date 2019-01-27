@@ -2,7 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://123.com/index.html</loc>
-    <lastmod>2019-01-17</lastmod>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84%E5%9B%BE%E5%83%8F%201273x679.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/personal-information.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/respect-for-evangelion.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/can-you-read-sheet-music.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/final-battle.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/designer-portfolio.html</loc>
+    <lastmod>2019-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -43,60 +106,6 @@
     </image:image>
     <image:image>
       <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%202.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/personal-information.html</loc>
-    <lastmod>2019-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/respect-for-evangelion.html</loc>
-    <lastmod>2019-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/can-you-read-sheet-music.html</loc>
-    <lastmod>2019-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
-    <lastmod>2019-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
-    <lastmod>2019-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/final-battle.html</loc>
-    <lastmod>2019-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
   </url>
 </urlset>
