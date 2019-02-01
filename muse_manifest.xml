@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1548575332094">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1549044455699">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="final-battle.css" crc="4025226093" ref="final-battle"/>
@@ -8,15 +8,16 @@
     <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
     <file name="index.css" crc="390679754" ref="index"/>
     <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
-    <file name="designer-portfolio.css" crc="3922118230" ref="designer-portfolio"/>
+    <file name="designer-portfolio.css" crc="4238316235" ref="designer-portfolio"/>
+    <file name="sound-design.css" crc="393217784" ref="sound-design"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
-    <file name="museutils.js" crc="340535759" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
-    <file name="whatinput.js" crc="86476730" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
-    <file name="require.js" crc="7928878" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
+    <file name="museutils.js" crc="340535759" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
+    <file name="require.js" crc="7928878" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
   </folder>
   <folder name="images">
@@ -66,15 +67,16 @@
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="designer-portfolio"/>
-    <file name="1.png" crc="4279088245" seo="true" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio">
+    <file name="1.png" crc="4279088245" seo="true" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design">
+      <caption webpage="index" alt=""/>
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
       <caption webpage="final-battle" alt=""/>
-      <caption webpage="respect-for-evangelion" alt=""/>
-      <caption webpage="personal-information" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
-      <caption webpage="can-you-read-sheet-music" alt=""/>
+      <caption webpage="personal-information" alt=""/>
+      <caption webpage="respect-for-evangelion" alt=""/>
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+      <caption webpage="sound-design" alt=""/>
     </file>
     <file name="资源 2.png" crc="4156331503" seo="true" ref="designer-portfolio">
       <caption webpage="index" alt=""/>
@@ -134,13 +136,20 @@
     <file name="画板 16@2x.png" crc="4022783629" ref="shopping-and-learning-mathematics">
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
     </file>
+    <file name="najin.jpg" crc="4051059859" seo="true" ref="designer-portfolio">
+      <caption webpage="designer-portfolio" alt=""/>
+    </file>
+    <file name="najin-60.jpg" crc="4018337688" seo="true" ref="designer-portfolio">
+      <caption webpage="designer-portfolio" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3838451859" seo="true" mt="1548575289924" redirect="true"/>
-  <file name="personal-information.html" crc="3870217599" seo="true" mt="1548575152340" redirect="true"/>
-  <file name="respect-for-evangelion.html" crc="4199124750" seo="true" mt="1548575152341" redirect="true"/>
-  <file name="can-you-read-sheet-music.html" crc="3908817961" seo="true" mt="1548575152341" redirect="true"/>
-  <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="3980994794" seo="true" mt="1548575152342" redirect="true"/>
-  <file name="shopping-and-learning-mathematics.html" crc="4283880504" seo="true" mt="1548575152343" redirect="true"/>
-  <file name="final-battle.html" crc="3767682673" seo="true" mt="1548575152343" redirect="true"/>
-  <file name="designer-portfolio.html" crc="4022575363" seo="true" mt="1548575152340" redirect="true"/>
+  <file name="index.html" crc="3838451859" seo="true" mt="1549044379019" redirect="true"/>
+  <file name="personal-information.html" crc="3870217599" seo="true" mt="1549044375001" redirect="true"/>
+  <file name="respect-for-evangelion.html" crc="4199124750" seo="true" mt="1549044375001" redirect="true"/>
+  <file name="can-you-read-sheet-music.html" crc="3908817961" seo="true" mt="1549044375002" redirect="true"/>
+  <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="3980994794" seo="true" mt="1549044375003" redirect="true"/>
+  <file name="shopping-and-learning-mathematics.html" crc="4283880504" seo="true" mt="1549044375004" redirect="true"/>
+  <file name="final-battle.html" crc="3767682673" seo="true" mt="1549044375005" redirect="true"/>
+  <file name="designer-portfolio.html" crc="229456347" seo="true" mt="1549044375000" redirect="true"/>
+  <file name="sound-design.html" crc="4165371865" seo="true" mt="1549042006706" redirect="true"/>
 </manifest>
