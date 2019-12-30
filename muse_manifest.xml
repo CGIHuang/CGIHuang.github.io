@@ -1,85 +1,78 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1549367401983">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1577746719290">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="final-battle.css" crc="4025226093" ref="final-battle"/>
-    <file name="shopping-and-learning-mathematics.css" crc="4075560620" ref="shopping-and-learning-mathematics"/>
     <file name="personal-information.css" crc="4112555429" ref="personal-information"/>
-    <file name="respect-for-evangelion.css" crc="53554241" ref="respect-for-evangelion"/>
-    <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
-    <file name="index.css" crc="454275995" ref="index"/>
-    <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
-    <file name="designer-portfolio.css" crc="4238316235" ref="designer-portfolio"/>
     <file name="sound-design.css" crc="393217784" ref="sound-design"/>
+    <file name="final-battle.css" crc="4025226093" ref="final-battle"/>
+    <file name="respect-for-evangelion.css" crc="53554241" ref="respect-for-evangelion"/>
+    <file name="designer-portfolio.css" crc="4238316235" ref="designer-portfolio"/>
+    <file name="index.css" crc="454275995" ref="index"/>
+    <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
+    <file name="shopping-and-learning-mathematics.css" crc="4075560620" ref="shopping-and-learning-mathematics"/>
+    <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="museutils.js" crc="340535759" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="whatinput.js" crc="86476730" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="require.js" crc="7928878" ref="index:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="museutils.js" crc="3939489907" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="whatinput.js" crc="86476730" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="museconfig.js" crc="3936894949" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="jquery.watch.js" crc="522499760" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="require.js" crc="4177726516" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle"/>
   </folder>
   <folder name="images">
     <file name="1ncopy.jpg" crc="275797726" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="designer-portfolio"/>
     <file name="1n.jpg" crc="4212647602" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="2ncopy.jpg" crc="5690526" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="2n.jpg" crc="3809739028" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="3ncopy.jpg" crc="504706784" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="3n.jpg" crc="443948576" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="5ncopy.jpg" crc="4292687442" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="5n.jpg" crc="534201714" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="4ncopy.jpg" crc="4197424085" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="4n.jpg" crc="344174549" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
+      <caption webpage="designer-portfolio" alt=""/>
+    </file>
+    <file name="najin.jpg" crc="4051059859" seo="true" ref="designer-portfolio">
+      <caption webpage="designer-portfolio" alt=""/>
+    </file>
+    <file name="najin-60.jpg" crc="4018337688" seo="true" ref="designer-portfolio">
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="粘贴的-svg-236927x159.svg" crc="250107701" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="designer-portfolio"/>
-    <file name="1.png" crc="4279088245" seo="true" ref="personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:designer-portfolio:sound-design">
-      <caption webpage="personal-information" alt=""/>
-      <caption webpage="final-battle" alt=""/>
+    <file name="1.png" crc="4279088245" seo="true" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:sound-design">
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
-      <caption webpage="designer-portfolio" alt=""/>
+      <caption webpage="final-battle" alt=""/>
       <caption webpage="can-you-read-sheet-music" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="respect-for-evangelion" alt=""/>
       <caption webpage="sound-design" alt=""/>
+      <caption webpage="respect-for-evangelion" alt=""/>
+      <caption webpage="designer-portfolio" alt=""/>
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
+      <caption webpage="personal-information" alt=""/>
     </file>
     <file name="资源 2.png" crc="4156331503" seo="true" ref="designer-portfolio">
-      <caption webpage="index" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
     </file>
     <file name="画板 2@4x.png" crc="4181582386" ref="personal-information">
@@ -112,6 +105,9 @@
     <file name="画板 11@4x.png" crc="4182493835" ref="let-s-cook-authentic-chinese-cuisine!">
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
     </file>
+    <file name="画板 16@2x.png" crc="4022783629" ref="shopping-and-learning-mathematics">
+      <caption webpage="shopping-and-learning-mathematics" alt=""/>
+    </file>
     <file name="画板 17@4x.png" crc="3942315033" ref="shopping-and-learning-mathematics">
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
     </file>
@@ -133,23 +129,14 @@
     <file name="画板 15@4x.png" crc="3925927287" ref="final-battle">
       <caption webpage="final-battle" alt=""/>
     </file>
-    <file name="画板 16@2x.png" crc="4022783629" ref="shopping-and-learning-mathematics">
-      <caption webpage="shopping-and-learning-mathematics" alt=""/>
-    </file>
-    <file name="najin.jpg" crc="4051059859" seo="true" ref="designer-portfolio">
-      <caption webpage="designer-portfolio" alt=""/>
-    </file>
-    <file name="najin-60.jpg" crc="4018337688" seo="true" ref="designer-portfolio">
-      <caption webpage="designer-portfolio" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="142153059" seo="true" mt="1549367371143" redirect="true"/>
-  <file name="personal-information.html" crc="3870217599" seo="true" mt="1549367272117" redirect="true"/>
-  <file name="respect-for-evangelion.html" crc="4199124750" seo="true" mt="1549367272118" redirect="true"/>
-  <file name="can-you-read-sheet-music.html" crc="3908817961" seo="true" mt="1549367272119" redirect="true"/>
-  <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="3980994794" seo="true" mt="1549367272119" redirect="true"/>
-  <file name="shopping-and-learning-mathematics.html" crc="4283880504" seo="true" mt="1549367272120" redirect="true"/>
-  <file name="final-battle.html" crc="3767682673" seo="true" mt="1549367272121" redirect="true"/>
-  <file name="designer-portfolio.html" crc="229456347" seo="true" mt="1549367272117" redirect="true"/>
-  <file name="sound-design.html" crc="4165371865" seo="true" mt="1549042006706" redirect="true"/>
+  <file name="designer-portfolio.html" crc="227604176" seo="true" mt="1549367272117" redirect="true"/>
+  <file name="personal-information.html" crc="14784297" seo="true" mt="1549367272117" redirect="true"/>
+  <file name="respect-for-evangelion.html" crc="3842358599" seo="true" mt="1549367272118" redirect="true"/>
+  <file name="can-you-read-sheet-music.html" crc="4138819175" seo="true" mt="1549367272119" redirect="true"/>
+  <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="266439837" seo="true" mt="1549367272119" redirect="true"/>
+  <file name="shopping-and-learning-mathematics.html" crc="176906206" seo="true" mt="1549367272120" redirect="true"/>
+  <file name="final-battle.html" crc="4140330600" seo="true" mt="1549367272121" redirect="true"/>
+  <file name="index.html" crc="4126447142" seo="true" mt="1577746704327" redirect="true"/>
+  <file name="sound-design.html" crc="4111634237" seo="true" mt="1549042006706" redirect="true"/>
 </manifest>

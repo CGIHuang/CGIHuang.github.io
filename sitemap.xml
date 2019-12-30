@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://123.com/index.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -26,33 +26,6 @@
   </url>
   <url>
     <loc>http://123.com/can-you-read-sheet-music.html</loc>
-    <lastmod>2019-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
-    <lastmod>2019-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
-    <lastmod>2019-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/final-battle.html</loc>
     <lastmod>2019-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -96,6 +69,12 @@
       <image:loc>http://123.com/images/4n.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://123.com/images/najin.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/najin-60.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://123.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-236927x159.svg</image:loc>
     </image:image>
     <image:image>
@@ -104,16 +83,37 @@
     <image:image>
       <image:loc>http://123.com/images/%E8%B5%84%E6%BA%90%202.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
+    <lastmod>2019-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://123.com/images/najin.jpg</image:loc>
+      <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/final-battle.html</loc>
+    <lastmod>2019-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://123.com/images/najin-60.jpg</image:loc>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
+    <lastmod>2019-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://123.com/sound-design.html</loc>
-    <lastmod>2019-02-02</lastmod>
+    <lastmod>2019-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
