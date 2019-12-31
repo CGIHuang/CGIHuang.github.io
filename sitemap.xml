@@ -5,10 +5,13 @@
     <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/fyawepjo_400x400_circle.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/personal-information.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +20,7 @@
   </url>
   <url>
     <loc>http://123.com/respect-for-evangelion.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +29,16 @@
   </url>
   <url>
     <loc>http://123.com/can-you-read-sheet-music.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +47,7 @@
   </url>
   <url>
     <loc>http://123.com/designer-portfolio.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -85,17 +97,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
-    <lastmod>2019-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://123.com/final-battle.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -103,8 +106,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://123.com/let-s-cook-authentic-chinese-cuisine!.html</loc>
-    <lastmod>2019-02-05</lastmod>
+    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -119,5 +122,11 @@
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/designer-blog.html</loc>
+    <lastmod>2019-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
