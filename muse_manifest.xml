@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1577750422415">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1577750903913">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="personal-information.css" crc="4112555429" ref="personal-information"/>
@@ -6,7 +6,7 @@
     <file name="final-battle.css" crc="4025226093" ref="final-battle"/>
     <file name="respect-for-evangelion.css" crc="53554241" ref="respect-for-evangelion"/>
     <file name="designer-portfolio.css" crc="4238316235" ref="designer-portfolio"/>
-    <file name="index.css" crc="3927109437" ref="index"/>
+    <file name="index.css" crc="329118496" ref="index"/>
     <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
     <file name="shopping-and-learning-mathematics.css" crc="4075560620" ref="shopping-and-learning-mathematics"/>
     <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
@@ -137,6 +137,6 @@
   <file name="let-s-cook-authentic-chinese-cuisine!.html" crc="266439837" seo="true" mt="1549367272119" redirect="true"/>
   <file name="shopping-and-learning-mathematics.html" crc="176906206" seo="true" mt="1549367272120" redirect="true"/>
   <file name="final-battle.html" crc="4140330600" seo="true" mt="1549367272121" redirect="true"/>
-  <file name="index.html" crc="4011142687" seo="true" mt="1577750411027" redirect="true"/>
+  <file name="index.html" crc="469569613" seo="true" mt="1577750896286" redirect="true"/>
   <file name="sound-design.html" crc="4111634237" seo="true" mt="1549042006706" redirect="true"/>
 </manifest>
