@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578581592096">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578586494804">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="personal-information.css" crc="4112555429" ref="personal-information"/>
@@ -10,7 +10,7 @@
     <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
     <file name="shopping-and-learning-mathematics.css" crc="4075560620" ref="shopping-and-learning-mathematics"/>
     <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
-    <file name="the-trapped-soul.css" crc="4269594998" ref="the-trapped-soul"/>
+    <file name="the-trapped-soul.css" crc="4246789358" ref="the-trapped-soul"/>
     <file name="endless-darkness.css" crc="68638146" ref="endless-darkness"/>
     <file name="healthy-food-assistant.css" crc="497430748" ref="healthy-food-assistant"/>
   </folder>
@@ -69,15 +69,15 @@
       <caption webpage="can-you-read-sheet-music" alt=""/>
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
-      <caption webpage="designer-blog-2" alt=""/>
+      <caption webpage="designer-blog" alt=""/>
       <caption webpage="the-trapped-soul" alt=""/>
-      <caption webpage="designer-blog-1" alt=""/>
-      <caption webpage="respect-for-evangelion" alt=""/>
+      <caption webpage="designer-blog-2" alt=""/>
       <caption webpage="endless-darkness" alt=""/>
       <caption webpage="sound-design" alt=""/>
+      <caption webpage="respect-for-evangelion" alt=""/>
       <caption webpage="designer-portfolio" alt=""/>
       <caption webpage="personal-information" alt=""/>
-      <caption webpage="designer-blog" alt=""/>
+      <caption webpage="designer-blog-1" alt=""/>
       <caption webpage="final-battle" alt=""/>
       <caption webpage="healthy-food-assistant" alt=""/>
     </file>
@@ -147,10 +147,19 @@
     <file name="pasted image 1495x837.jpg" crc="3838511570" seo="true" ref="the-trapped-soul">
       <caption webpage="the-trapped-soul" alt=""/>
     </file>
-    <file name="pasted image 1369x866.jpg" crc="4063532664" seo="true" ref="the-trapped-soul">
+    <file name="pasted image 1369x866.jpg" crc="121061966" seo="true" ref="the-trapped-soul">
       <caption webpage="the-trapped-soul" alt=""/>
     </file>
-    <file name="pasted image 2114x715.jpg" crc="3865757956" seo="true" ref="the-trapped-soul">
+    <file name="pasted image 2114x715.jpg" crc="3926435074" seo="true" ref="the-trapped-soul">
+      <caption webpage="the-trapped-soul" alt=""/>
+    </file>
+    <file name="pasted image 312x375.jpg" crc="453918862" seo="true" ref="the-trapped-soul">
+      <caption webpage="the-trapped-soul" alt=""/>
+    </file>
+    <file name="pasted image 1020x663.jpg" crc="4021135802" seo="true" ref="the-trapped-soul">
+      <caption webpage="the-trapped-soul" alt=""/>
+    </file>
+    <file name="pasted image 978x611.jpg" crc="293117595" seo="true" ref="the-trapped-soul">
       <caption webpage="the-trapped-soul" alt=""/>
     </file>
   </folder>
@@ -163,7 +172,7 @@
   <file name="final-battle.html" crc="4140330600" seo="true" mt="1577751484544" redirect="true"/>
   <file name="index.html" crc="3861573368" seo="true" mt="1578540994048" redirect="true"/>
   <file name="sound-design.html" crc="4111634237" seo="true" mt="1549042006706" redirect="true"/>
-  <file name="the-trapped-soul.html" crc="440566062" seo="true" mt="1578581474676" redirect="true"/>
+  <file name="the-trapped-soul.html" crc="4286718569" seo="true" mt="1578586282778" redirect="true"/>
   <file name="endless-darkness.html" crc="135256686" seo="true" mt="1578568930650" redirect="true"/>
   <file name="healthy-food-assistant.html" crc="133905687" seo="true" mt="1578568951135" redirect="true"/>
 </manifest>

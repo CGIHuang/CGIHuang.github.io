@@ -143,6 +143,15 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%202114x715.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20312x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201020x663.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20978x611.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/endless-darkness.html</loc>
