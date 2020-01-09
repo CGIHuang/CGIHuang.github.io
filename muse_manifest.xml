@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578586494804">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578594165107">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="personal-information.css" crc="4112555429" ref="personal-information"/>
@@ -10,9 +10,9 @@
     <file name="can-you-read-sheet-music.css" crc="47272947" ref="can-you-read-sheet-music"/>
     <file name="shopping-and-learning-mathematics.css" crc="4075560620" ref="shopping-and-learning-mathematics"/>
     <file name="let-s-cook-authentic-chinese-cuisine_.css" crc="4053063290" ref="let-s-cook-authentic-chinese-cuisine!"/>
-    <file name="the-trapped-soul.css" crc="4246789358" ref="the-trapped-soul"/>
-    <file name="endless-darkness.css" crc="68638146" ref="endless-darkness"/>
-    <file name="healthy-food-assistant.css" crc="497430748" ref="healthy-food-assistant"/>
+    <file name="the-trapped-soul.css" crc="4130520847" ref="the-trapped-soul"/>
+    <file name="endless-darkness.css" crc="47769550" ref="endless-darkness"/>
+    <file name="healthy-food-assistant.css" crc="3909066682" ref="healthy-food-assistant"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:index:sound-design:the-trapped-soul:endless-darkness:healthy-food-assistant"/>
@@ -66,20 +66,20 @@
     </file>
     <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="designer-portfolio"/>
     <file name="1.png" crc="4279088245" seo="true" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:sound-design:the-trapped-soul:endless-darkness:healthy-food-assistant">
-      <caption webpage="can-you-read-sheet-music" alt=""/>
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
+      <caption webpage="respect-for-evangelion" alt=""/>
+      <caption webpage="final-battle" alt=""/>
+      <caption webpage="designer-portfolio" alt=""/>
+      <caption webpage="healthy-food-assistant" alt=""/>
+      <caption webpage="designer-blog-1" alt=""/>
+      <caption webpage="sound-design" alt=""/>
+      <caption webpage="can-you-read-sheet-music" alt=""/>
+      <caption webpage="personal-information" alt=""/>
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
       <caption webpage="designer-blog" alt=""/>
       <caption webpage="the-trapped-soul" alt=""/>
       <caption webpage="designer-blog-2" alt=""/>
       <caption webpage="endless-darkness" alt=""/>
-      <caption webpage="sound-design" alt=""/>
-      <caption webpage="respect-for-evangelion" alt=""/>
-      <caption webpage="designer-portfolio" alt=""/>
-      <caption webpage="personal-information" alt=""/>
-      <caption webpage="designer-blog-1" alt=""/>
-      <caption webpage="final-battle" alt=""/>
-      <caption webpage="healthy-food-assistant" alt=""/>
     </file>
     <file name="资源 2.png" crc="4156331503" seo="true" ref="designer-portfolio">
       <caption webpage="designer-portfolio" alt=""/>
@@ -172,7 +172,7 @@
   <file name="final-battle.html" crc="4140330600" seo="true" mt="1577751484544" redirect="true"/>
   <file name="index.html" crc="3861573368" seo="true" mt="1578540994048" redirect="true"/>
   <file name="sound-design.html" crc="4111634237" seo="true" mt="1549042006706" redirect="true"/>
-  <file name="the-trapped-soul.html" crc="4286718569" seo="true" mt="1578586282778" redirect="true"/>
-  <file name="endless-darkness.html" crc="135256686" seo="true" mt="1578568930650" redirect="true"/>
-  <file name="healthy-food-assistant.html" crc="133905687" seo="true" mt="1578568951135" redirect="true"/>
+  <file name="the-trapped-soul.html" crc="252757578" seo="true" mt="1578587341053" redirect="true"/>
+  <file name="endless-darkness.html" crc="515041589" seo="true" mt="1578593955356" redirect="true"/>
+  <file name="healthy-food-assistant.html" crc="3976084917" seo="true" mt="1578586960829" redirect="true"/>
 </manifest>
