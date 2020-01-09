@@ -46,6 +46,15 @@
     </image:image>
   </url>
   <url>
+    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
+    <lastmod>2019-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://123.com/designer-portfolio.html</loc>
     <lastmod>2020-01-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,15 +115,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://123.com/shopping-and-learning-mathematics.html</loc>
-    <lastmod>2019-12-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://123.com/sound-design.html</loc>
     <lastmod>2019-02-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,6 +125,24 @@
   </url>
   <url>
     <loc>http://123.com/designer-blog.html</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/designer-blog-1.html</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/designer-blog-2.html</loc>
     <lastmod>2020-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
