@@ -124,7 +124,28 @@
     </image:image>
   </url>
   <url>
-    <loc>http://123.com/designer-blog.html</loc>
+    <loc>http://123.com/the-trapped-soul.html</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20350x350.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201495x837.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201369x866.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202114x715.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://123.com/endless-darkness.html</loc>
     <lastmod>2020-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,16 +154,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://123.com/designer-blog-1.html</loc>
-    <lastmod>2020-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://123.com/images/1.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://123.com/designer-blog-2.html</loc>
+    <loc>http://123.com/healthy-food-assistant.html</loc>
     <lastmod>2020-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
