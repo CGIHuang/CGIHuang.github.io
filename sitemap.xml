@@ -161,6 +161,30 @@
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201195x658-crop-u3715.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201056x615-crop-u3724.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201256x700-crop-u3733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201096x513.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201090x541.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201066x538.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201689x1391.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201689x1421.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/healthy-food-assistant.html</loc>
