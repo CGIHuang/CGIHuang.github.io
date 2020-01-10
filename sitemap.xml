@@ -215,5 +215,23 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%202161x1330.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202231x1084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201525x1027-crop-u4024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201174x1001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/group7copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20649x649.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20649x645.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
