@@ -125,7 +125,7 @@
   </url>
   <url>
     <loc>http://123.com/the-trapped-soul.html</loc>
-    <lastmod>2020-01-09</lastmod>
+    <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -162,15 +162,6 @@
       <image:loc>http://123.com/images/1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://123.com/images/pasted%20image%201195x658-crop-u3715.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted%20image%201056x615-crop-u3724.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://123.com/images/pasted%20image%201256x700-crop-u3733.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://123.com/images/pasted%20image%201096x513.jpg</image:loc>
     </image:image>
     <image:image>
@@ -193,6 +184,30 @@
     </image:image>
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%203840x2066.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201195x658.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201056x615.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201256x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201538x821.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201728x1277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202075x1317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201862x889-crop-u4172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20405x590.jpg</image:loc>
     </image:image>
   </url>
   <url>
