@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>http://123.com/endless-darkness.html</loc>
-    <lastmod>2020-01-09</lastmod>
+    <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,14 +185,35 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%201689x1421.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201526x991.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%203840x2066-crop-u3859.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%203840x2066.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/healthy-food-assistant.html</loc>
-    <lastmod>2020-01-09</lastmod>
+    <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://123.com/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20732x549.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%20615x409.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202001x647.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202161x1330.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
