@@ -209,6 +209,12 @@
     <image:image>
       <image:loc>http://123.com/images/pasted%20image%20405x590.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%202129x1337.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pasted%20image%201742x880.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://123.com/healthy-food-assistant.html</loc>
