@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578666928495">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1578667541703">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="personal-information.css" crc="4112555429" ref="personal-information"/>
@@ -67,19 +67,19 @@
     <file name="粘贴的 svg 236927x159_poster_.png" crc="4271573928" ref="designer-portfolio"/>
     <file name="1.png" crc="4279088245" seo="true" ref="designer-portfolio:personal-information:respect-for-evangelion:can-you-read-sheet-music:let-s-cook-authentic-chinese-cuisine!:shopping-and-learning-mathematics:final-battle:sound-design:the-trapped-soul:endless-darkness:healthy-food-assistant">
       <caption webpage="final-battle" alt=""/>
+      <caption webpage="respect-for-evangelion" alt=""/>
       <caption webpage="the-trapped-soul" alt=""/>
       <caption webpage="can-you-read-sheet-music" alt=""/>
-      <caption webpage="designer-blog-1" alt=""/>
-      <caption webpage="designer-portfolio" alt=""/>
-      <caption webpage="personal-information" alt=""/>
-      <caption webpage="respect-for-evangelion" alt=""/>
-      <caption webpage="sound-design" alt=""/>
       <caption webpage="designer-blog-2" alt=""/>
+      <caption webpage="personal-information" alt=""/>
+      <caption webpage="endless-darkness" alt=""/>
       <caption webpage="shopping-and-learning-mathematics" alt=""/>
-      <caption webpage="designer-blog" alt=""/>
+      <caption webpage="sound-design" alt=""/>
+      <caption webpage="designer-portfolio" alt=""/>
+      <caption webpage="designer-blog-1" alt=""/>
       <caption webpage="let-s-cook-authentic-chinese-cuisine!" alt=""/>
       <caption webpage="healthy-food-assistant" alt=""/>
-      <caption webpage="endless-darkness" alt=""/>
+      <caption webpage="designer-blog" alt=""/>
     </file>
     <file name="资源 2.png" crc="4156331503" seo="true" ref="designer-portfolio">
       <caption webpage="designer-portfolio" alt=""/>
@@ -257,6 +257,6 @@
   <file name="index.html" crc="3861573368" seo="true" mt="1578540994048" redirect="true"/>
   <file name="sound-design.html" crc="4111634237" seo="true" mt="1549042006706" redirect="true"/>
   <file name="the-trapped-soul.html" crc="3980201338" seo="true" mt="1578665381583" redirect="true"/>
-  <file name="endless-darkness.html" crc="4282992580" seo="true" mt="1578666861133" redirect="true"/>
+  <file name="endless-darkness.html" crc="89834506" seo="true" mt="1578667227347" redirect="true"/>
   <file name="healthy-food-assistant.html" crc="506368121" seo="true" mt="1578660482174" redirect="true"/>
 </manifest>
